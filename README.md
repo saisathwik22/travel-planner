@@ -12,9 +12,16 @@ Describe your trip in plain English and get flight options, hotel ideas and a da
 ![Groq](https://img.shields.io/badge/LLM-Groq-F55036)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
+
+<img width="953" height="563" alt="image" src="https://github.com/user-attachments/assets/a41bab79-f838-4f2a-a896-cd15283fb051" />
+
+
 </div>
 
 ---
+
+
+
 
 ## Overview
 
